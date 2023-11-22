@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XbBiW7S09J88nH8hyOsEvoCqQNlug9d+UUHMm8rC+1c=",
+  "Source": "open-telemetry-api",
+  "BasePath": "_content/open-telemetry-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
